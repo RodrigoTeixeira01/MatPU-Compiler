@@ -1,0 +1,6 @@
+let i = 0;
+
+while (10 - i) {
+	print i;
+	+i; /* Equivalent to i++ in other languages */
+}
